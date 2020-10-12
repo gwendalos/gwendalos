@@ -16,7 +16,7 @@
   <img src="https://badges.pufler.dev/commits/monthly/vbe0201?style=flat-square&color=black&logo=github">
 </a>
 
-<br><br>
+<br>
 
 Welcome to my profile! I'm a student from **Bavaria, Germany** with a passion for all things low-level,
 from kernels and firmware to reversing proprietary binaries and breaking weird machines. Besides tech stuff,
