@@ -1,5 +1,9 @@
 ### Hey there, I'm Valentin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+Welcome to my profile! I'm a student from **Bavaria, Germany** with a passion for all things low-level,
+from kernels and firmware to reversing proprietary binaries and breaking weird machines. Besides tech stuff,
+I enjoy books, graphics, anime and my dog. I'm always looking forward to meeting new people, so come say hi!
+
 <a href="https://github.com/vbe0201">
   <img src="https://badges.pufler.dev/visits/vbe0201/vbe0201?style=flat-square&color=black&logo=github">
 </a>
@@ -15,12 +19,6 @@
 <a href="https://badges.pufler.dev">
   <img src="https://badges.pufler.dev/commits/monthly/vbe0201?style=flat-square&color=black&logo=github">
 </a>
-
-<br>
-
-Welcome to my profile! I'm a student from **Bavaria, Germany** with a passion for all things low-level,
-from kernels and firmware to reversing proprietary binaries and breaking weird machines. Besides tech stuff,
-I enjoy books, graphics, anime and my dog. I'm always looking forward to meeting new people, so come say hi!
 
 <img align="right" alt="GIF" src="https://github.com/vbe0201/vbe0201/blob/master/hackermans.gif?raw=true" width="398px">
 
