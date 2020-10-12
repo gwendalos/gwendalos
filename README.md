@@ -18,7 +18,9 @@
 
 <br><br>
 
-Test
+Welcome to my profile! I'm a student from **Bavaria, Germany** with a passion for all things low-level,
+from kernels and firmware to reversing proprietary binaries and breaking weird machines. Besides tech stuff,
+I enjoy books, graphics, anime and my dog. I'm always looking forward to meeting new people, so come say hi!
 
 <img align="right" alt="GIF" src="https://github.com/vbe0201/vbe0201/blob/master/hackermans.gif?raw=true" width="398px">
 
