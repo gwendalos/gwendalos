@@ -16,9 +16,13 @@
   <img src="https://badges.pufler.dev/commits/monthly/vbe0201?style=flat-square&color=black&logo=github">
 </a>
 
+<br><br>
+
+Test
+
 <img align="right" alt="GIF" src="https://github.com/vbe0201/vbe0201/blob/master/hackermans.gif?raw=true" width="398px">
 
-** A few things about myself:**
+**A few things about myself:**
 
 - 💻 I'm currently working on way too many side projects
 
@@ -43,5 +47,7 @@ or Discord (Vale#5252)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+**GitHub Stats:**
 
 <img src="https://github-readme-stats.vercel.app/api?username=vbe0201&show_icons=true&theme=tokyonight">
