@@ -5,7 +5,7 @@ from Discord Bots to AI, I love basically everything that you can do with Python
 I enjoy graphics, anime and my cat. I'm always looking forward to meeting new people, so come say hi!
 
 <a href="https://github.com/gwendalos">
-  <img src="https://badges.pufler.dev/visits/vbe0201/gwendalos?style=flat-square&color=black&logo=github">
+  <img src="https://badges.pufler.dev/visits/gwendalos/gwendalos?style=flat-square&color=black&logo=github">
 </a>
 <a href="https://github.com/gwendalos">
   <img src="https://badges.pufler.dev/years/gwendalos?style=flat-square&color=black&logo=github">
