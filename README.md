@@ -10,7 +10,7 @@ I enjoy graphics, anime and my cat. I'm always looking forward to meeting new pe
 <a href="https://github.com/gwendalos">
   <img src="https://badges.pufler.dev/years/gwendalos?style=flat-square&color=black&logo=github">
 </a>
-<a href="https://github.com/vbe0201?tab=repositories">
+<a href="https://github.com/gwendalos?tab=repositories">
   <img src="https://badges.pufler.dev/repos/gwendalos?style=flat-square&color=black&logo=github">
 </a>
 <a href="https://gist.github.com/gwendalos">
