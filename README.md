@@ -26,15 +26,15 @@ I enjoy books, graphics, anime and my dog. I'm always looking forward to meeting
 
 - 💻 I'm currently working on way too many side projects
 
-- 🧐 Learning about game development
+- 🧐 Would like to learn about game development
 
-- 📫 Reach out to me via [Email](mailto:valentin.be@protonmail.com), [Twitter](https://twitter.com/iamwalleh)
-or Discord (Vale#5252)
+- 📫 Reach out to me via [Email](mailto:milo@gwendalito.com), [Twitter](https://twitter.com/gwendaldev)
+or Discord (gwendal#0004)
 
 - 👨‍💻 Most of my personal projects are open source for educational purposes
 
-- 💬 Ask me about **async/await**, **InfoSec**, **hacking**, **all things low-level**, always happy to help
+- 💬 Ask me about **gwendalito** or **Discord Bots**, always happy to help
 
 **GitHub Stats:**
 
-<img src="https://github-readme-stats.vercel.app/api?username=vbe0201&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=gwendalos&show_icons=true&theme=tokyonight">
