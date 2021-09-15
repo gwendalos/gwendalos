@@ -14,7 +14,7 @@ I enjoy graphics, anime and my cat. I'm always looking forward to meeting new pe
   <img src="https://badges.pufler.dev/repos/gwendalos?style=flat-square&color=black&logo=github">
 </a>
 
-<img align="right" alt="GIF" src="https://github.com/vbe0201/vbe0201/blob/master/hackermans.gif?raw=true" width="398px">
+<img align="right" alt="GIF" src="https://github.com/gwendalos/gwendalos/blob/master/hackermans.gif?raw=true" width="398px">
 
 **A few things about myself:**
 
