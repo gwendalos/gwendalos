@@ -13,12 +13,6 @@ I enjoy graphics, anime and my cat. I'm always looking forward to meeting new pe
 <a href="https://github.com/gwendalos?tab=repositories">
   <img src="https://badges.pufler.dev/repos/gwendalos?style=flat-square&color=black&logo=github">
 </a>
-<a href="https://gist.github.com/gwendalos">
-  <img src="https://badges.pufler.dev/gists/gwendalos?style=flat-square&color=black&logo=github">
-</a>
-<a href="https://badges.pufler.dev">
-  <img src="https://badges.pufler.dev/commits/monthly/gwendalos?style=flat-square&color=black&logo=github">
-</a>
 
 <img align="right" alt="GIF" src="https://github.com/vbe0201/vbe0201/blob/master/hackermans.gif?raw=true" width="398px">
 
