@@ -1,23 +1,23 @@
-### Hey there, I'm Valentin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hey there, I'm Milo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Welcome to my profile! I'm a student from **Bavaria, Germany** with a passion for all things low-level,
-from kernels and firmware to reversing proprietary binaries and breaking weird machines. Besides tech stuff,
-I enjoy books, graphics, anime and my dog. I'm always looking forward to meeting new people, so come say hi!
+Welcome to my profile! I'm a kid from **France** with a passion for all things concerning python,
+from Discord Bots to AI, I love basically everything that you can do with Python. Besides tech stuff,
+I enjoy graphics, anime and my cat. I'm always looking forward to meeting new people, so come say hi!
 
-<a href="https://github.com/vbe0201">
-  <img src="https://badges.pufler.dev/visits/vbe0201/vbe0201?style=flat-square&color=black&logo=github">
+<a href="https://github.com/gwendalos">
+  <img src="https://badges.pufler.dev/visits/vbe0201/gwendalos?style=flat-square&color=black&logo=github">
 </a>
-<a href="https://github.com/vbe0201">
-  <img src="https://badges.pufler.dev/years/vbe0201?style=flat-square&color=black&logo=github">
+<a href="https://github.com/gwendalos">
+  <img src="https://badges.pufler.dev/years/gwendalos?style=flat-square&color=black&logo=github">
 </a>
 <a href="https://github.com/vbe0201?tab=repositories">
-  <img src="https://badges.pufler.dev/repos/vbe0201?style=flat-square&color=black&logo=github">
+  <img src="https://badges.pufler.dev/repos/gwendalos?style=flat-square&color=black&logo=github">
 </a>
-<a href="https://gist.github.com/vbe0201">
-  <img src="https://badges.pufler.dev/gists/vbe0201?style=flat-square&color=black&logo=github">
+<a href="https://gist.github.com/gwendalos">
+  <img src="https://badges.pufler.dev/gists/gwendalos?style=flat-square&color=black&logo=github">
 </a>
 <a href="https://badges.pufler.dev">
-  <img src="https://badges.pufler.dev/commits/monthly/vbe0201?style=flat-square&color=black&logo=github">
+  <img src="https://badges.pufler.dev/commits/monthly/gwendalos?style=flat-square&color=black&logo=github">
 </a>
 
 <img align="right" alt="GIF" src="https://github.com/vbe0201/vbe0201/blob/master/hackermans.gif?raw=true" width="398px">
