@@ -1,7 +1,7 @@
 ### Hey there, I'm Milo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 Welcome to my profile! I'm a kid from **France** with a passion for all things concerning python,
-from Discord Bots to AI, I love basically everything that you can do with Python. Besides tech stuff,
+from Discord Bots to Deep learning, I love basically everything that you can do with Python. Besides tech stuff,
 I enjoy graphics, anime and my cat. I'm always looking forward to meeting new people, so come say hi!
 
 <a href="https://github.com/gwendalos">
